@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\C#\algorithms\obj\Debug\algorithms.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\C#\algorithms\obj\Debug\algorithms.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\algorithms\bin\Debug\algorithms.exe.config
+C:\Users\HP\Desktop\C#\algorithms\bin\Debug\algorithms.exe
+C:\Users\HP\Desktop\C#\algorithms\bin\Debug\algorithms.pdb
+C:\Users\HP\Desktop\C#\algorithms\obj\Debug\algorithms.exe
+C:\Users\HP\Desktop\C#\algorithms\obj\Debug\algorithms.pdb
