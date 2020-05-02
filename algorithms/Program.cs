@@ -27,7 +27,6 @@ namespace algorithms
                     condition = false;
             }
             Console.Write(counter);
-            Console.ReadLine();
 
 
 
@@ -43,21 +42,15 @@ namespace algorithms
                     Console.WriteLine("This number is not prime");
                     break;
                 }
-                else
-                {
-                    Console.WriteLine("This number is prime");
-                    break;
-                }
             }
+                    Console.WriteLine("This number is prime");
+
 
 
             //Check seasons
 
             Console.WriteLine("Enter the month number: ");
             int MonthNumber = Convert.ToInt32(Console.ReadLine());
-
-
-
             
                 if(MonthNumber == 1 || MonthNumber == 2 || MonthNumber == 12)
                 {
@@ -71,7 +64,7 @@ namespace algorithms
                 {
                     Console.WriteLine("It is summer now");
                 }
-                else if (MonthNumber == 6 || MonthNumber == 7 || MonthNumber == 8)
+                else if (MonthNumber == 9 || MonthNumber == 10 || MonthNumber == 11)
                 {
                 Console.WriteLine("It is fall now");
                 }
